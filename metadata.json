@@ -1,0 +1,5 @@
+{
+  "name": "Data Center Power Architect",
+  "description": "A professional-grade visual simulator for data center power supply systems, featuring real-time power flow analysis, 2N redundancy modeling, and fault simulation.",
+  "requestFramePermissions": []
+}
